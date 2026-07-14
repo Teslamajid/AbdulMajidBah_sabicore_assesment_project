@@ -1,0 +1,19 @@
+{
+  "name": "a1",
+  "version": "0.1.0",
+  "description": "Sabi Core A1 — Assistive AI abstract screening + embedding (OpenAI)",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js",
+    "demo:screen": "node index.js screen",
+    "demo:embed": "node index.js embed"
+  },
+  "dependencies": {
+    "openai": "^4.77.0"
+  }
+}

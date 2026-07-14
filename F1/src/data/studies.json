@@ -1,0 +1,352 @@
+[
+  {
+    "id": "study-001",
+    "title": "Efficacy of mRNA COVID-19 vaccines in preventing severe disease: a systematic review",
+    "authors": ["Chen, L.", "Okafor, N.", "Patel, R."],
+    "year": 2022,
+    "abstract": "Background: mRNA vaccines were deployed at scale during the COVID-19 pandemic. We assessed their efficacy in preventing severe disease, hospitalisation, and death across diverse populations. Methods: We searched PubMed, Embase, and Cochrane CENTRAL for randomised controlled trials and large observational studies published January 2020–December 2021. Results: 24 studies met inclusion criteria. Pooled vaccine efficacy against severe disease was 93.4% (95% CI 91.1–95.2) after full vaccination. Efficacy was maintained across age groups but attenuated in immunocompromised individuals. Conclusion: mRNA vaccines demonstrate high and consistent efficacy against severe COVID-19 outcomes."
+  },
+  {
+    "id": "study-002",
+    "title": "Metformin versus lifestyle intervention for type 2 diabetes prevention in high-risk adults",
+    "authors": ["Torres, M.", "Kim, J.", "Adeyemi, B."],
+    "year": 2021,
+    "abstract": "Objective: To compare the long-term effectiveness of metformin and structured lifestyle intervention in preventing progression from prediabetes to type 2 diabetes. Design: Randomised controlled trial with 10-year follow-up. Participants: 3,234 adults with impaired glucose tolerance. Interventions: Metformin 850 mg twice daily, intensive lifestyle programme (7% body weight reduction, ≥150 min/week moderate exercise), or placebo. Results: Lifestyle intervention reduced diabetes incidence by 58% and metformin by 31% compared to placebo. Benefits persisted after the active intervention period. Conclusion: Lifestyle intervention is superior to metformin for diabetes prevention, though both outperform placebo."
+  },
+  {
+    "id": "study-003",
+    "title": "Low-dose aspirin for primary prevention of cardiovascular events: a meta-analysis",
+    "authors": ["Nakamura, T.", "Ferreira, A.", "Williams, D."],
+    "year": 2022,
+    "abstract": "Purpose: The benefit-risk balance of aspirin for primary cardiovascular prevention remains controversial. We conducted a meta-analysis of recent large randomised trials. Methods: Trials published 2015–2022 with ≥5,000 participants and ≥3-year follow-up were included. Results: Aspirin reduced non-fatal MI by 14% (RR 0.86, 95% CI 0.80–0.93) but increased major GI bleeding by 43% (RR 1.43, 95% CI 1.30–1.57). All-cause mortality was unchanged. Subgroup analysis showed net benefit confined to individuals with ≥10% 10-year cardiovascular risk. Conclusion: Routine aspirin for primary prevention is not recommended for average-risk individuals."
+  },
+  {
+    "id": "study-004",
+    "title": "Cognitive behavioural therapy for treatment-resistant depression: randomised controlled trial",
+    "authors": ["Osei, K.", "Hartmann, R.", "Boateng, A."],
+    "year": 2020,
+    "abstract": "Background: A substantial proportion of patients with major depressive disorder do not respond to first-line antidepressants. This trial evaluated augmentation with cognitive behavioural therapy (CBT). Methods: 469 adults with treatment-resistant depression were randomised to CBT plus usual care or usual care alone. Primary outcome: depressive symptom score at 12 months. Results: CBT group showed significantly greater symptom reduction (mean difference −4.2, 95% CI −5.8 to −2.6). Response rate was 46% in the CBT group versus 27% in controls. Gains were maintained at 18-month follow-up. Conclusion: CBT is an effective augmentation strategy for treatment-resistant depression."
+  },
+  {
+    "id": "study-005",
+    "title": "Effect of screen time on sleep duration and quality in children aged 6–12 years",
+    "authors": ["Larsson, E.", "Mensah, F.", "Cruz, P."],
+    "year": 2021,
+    "abstract": "Aim: To quantify the association between recreational screen time and sleep outcomes in primary school-aged children. Methods: Cross-sectional survey of 8,412 children from 14 countries. Screen time was assessed by parent report; sleep duration and quality by validated questionnaire and actigraphy in a subsample. Results: Each additional hour of daily screen time was associated with 8.5 minutes less sleep (95% CI 6.2–10.7). The association was strongest for screen use within 1 hour of bedtime. Screen time >3 hours/day was associated with poor sleep quality (OR 1.67, 95% CI 1.44–1.93). Conclusion: Screen time reduction, particularly before bedtime, should be targeted to improve children's sleep."
+  },
+  {
+    "id": "study-006",
+    "title": "Bariatric surgery versus medical management for severe obesity: 5-year outcomes",
+    "authors": ["Gomes, R.", "Lindqvist, S.", "Hassan, M."],
+    "year": 2023,
+    "abstract": "Background: Long-term comparative evidence on bariatric surgery versus intensive medical management is limited. Methods: Prospective matched cohort study of 1,892 adults with BMI ≥40 kg/m². Outcomes included weight loss, diabetes remission, cardiovascular risk factors, and quality of life at 5 years. Results: Surgical patients achieved 29% mean total weight loss versus 8% with medical management. Type 2 diabetes remission was 62% vs 10%. Hypertension resolution occurred in 54% vs 21%. No significant difference in cardiovascular events at 5 years. Mortality was lower in the surgical group (HR 0.68, 95% CI 0.51–0.91). Conclusion: Bariatric surgery achieves superior metabolic outcomes and may reduce long-term mortality."
+  },
+  {
+    "id": "study-007",
+    "title": "Prostate-specific antigen screening and prostate cancer mortality: updated meta-analysis",
+    "authors": ["Andersen, C.", "Nwosu, I.", "Kowalski, T."],
+    "year": 2022,
+    "abstract": "Objective: To update evidence on PSA screening and prostate cancer mortality with extended follow-up data. Data sources: MEDLINE, Embase, Cochrane. Study selection: Randomised controlled trials of PSA screening versus no screening. Results: Five trials involving 721,718 men were included. After ≥13-year follow-up, PSA screening reduced prostate cancer mortality by 21% (RR 0.79, 95% CI 0.71–0.87) but had no effect on all-cause mortality. The number needed to screen to prevent one death was 570 at 13 years. Over-diagnosis rate was estimated at 30–40% of screen-detected cancers. Conclusion: PSA screening reduces disease-specific mortality at the cost of substantial over-diagnosis."
+  },
+  {
+    "id": "study-008",
+    "title": "Mindfulness-based stress reduction for chronic low back pain: a randomised trial",
+    "authors": ["Yamamoto, H.", "Abara, E.", "Kofi, S."],
+    "year": 2019,
+    "abstract": "Objective: To evaluate mindfulness-based stress reduction (MBSR) versus usual care for chronic non-specific low back pain. Design: Parallel-group randomised controlled trial. Setting: 12 primary care practices. Participants: 521 adults with chronic low back pain ≥12 weeks. Intervention: 8-week MBSR programme versus usual care. Main outcomes: pain intensity and functional limitation at 26 weeks. Results: MBSR produced clinically meaningful reductions in pain (NRS −1.8, 95% CI −2.4 to −1.2) and disability (Roland-Morris −3.1, 95% CI −4.2 to −2.0) compared to usual care. Benefits maintained at 52 weeks. Conclusion: MBSR is an effective non-pharmacological intervention for chronic low back pain."
+  },
+  {
+    "id": "study-009",
+    "title": "Pembrolizumab plus chemotherapy versus chemotherapy alone in advanced non-small-cell lung cancer",
+    "authors": ["Reyes, C.", "Ito, M.", "Diallo, F."],
+    "year": 2021,
+    "abstract": "Background: Immune checkpoint inhibitors have transformed the treatment of NSCLC. This phase 3 trial assessed pembrolizumab plus chemotherapy versus chemotherapy alone as first-line treatment. Methods: 616 patients with advanced non-squamous NSCLC were randomised 1:1. Primary endpoints: overall survival and progression-free survival. Results: Median OS was 22.0 months with combination therapy versus 10.6 months with chemotherapy alone (HR 0.56, 95% CI 0.45–0.70). Median PFS was 9.0 vs 4.9 months (HR 0.48, 95% CI 0.40–0.58). Grade ≥3 adverse events were more frequent in the combination arm (67% vs 49%). Conclusion: Pembrolizumab plus chemotherapy significantly improves survival in first-line advanced NSCLC."
+  },
+  {
+    "id": "study-010",
+    "title": "Sodium-glucose cotransporter-2 inhibitors and heart failure hospitalisation: a network meta-analysis",
+    "authors": ["Schmidt, B.", "Asante, O.", "Park, J."],
+    "year": 2022,
+    "abstract": "Purpose: To compare cardiovascular outcomes of SGLT-2 inhibitors (empagliflozin, dapagliflozin, canagliflozin) in patients with type 2 diabetes and established cardiovascular disease. Methods: Network meta-analysis of 7 cardiovascular outcome trials including 74,832 participants. Results: All three SGLT-2 inhibitors significantly reduced heart failure hospitalisation (pooled HR 0.69, 95% CI 0.63–0.75). Empagliflozin showed the largest reduction in cardiovascular death (HR 0.62, 95% CI 0.49–0.77). Canagliflozin was associated with increased lower-limb amputation risk (HR 1.97, 95% CI 1.41–2.75). Conclusion: SGLT-2 inhibitors consistently reduce heart failure events; empagliflozin may offer the most favourable cardiovascular profile."
+  },
+  {
+    "id": "study-011",
+    "title": "Telemedicine versus in-person consultations for management of hypertension: a systematic review",
+    "authors": ["Okonkwo, A.", "Brandt, L.", "Singh, R."],
+    "year": 2023,
+    "abstract": "Background: Telemedicine expanded rapidly during the COVID-19 pandemic. We reviewed its effectiveness for hypertension management compared to standard in-person care. Methods: Systematic review and meta-analysis of randomised trials and controlled observational studies (2000–2023). Results: 22 studies (N=18,446) were included. Telemedicine interventions reduced systolic blood pressure by a mean of 4.7 mmHg (95% CI 3.2–6.2) and diastolic BP by 2.1 mmHg more than usual care. Patient satisfaction was equivalent. Medication adherence improved in telemedicine groups (OR 1.34, 95% CI 1.18–1.53). Conclusion: Telemedicine is a clinically effective alternative for hypertension management with comparable patient acceptance."
+  },
+  {
+    "id": "study-012",
+    "title": "Breastfeeding duration and childhood obesity risk: a prospective cohort study",
+    "authors": ["Mensah, D.", "Johansson, P.", "Al-Rashidi, N."],
+    "year": 2020,
+    "abstract": "Objective: To examine whether breastfeeding duration is associated with reduced odds of childhood obesity at age 5. Design: Population-based prospective birth cohort. Setting: 6 countries in Africa, Asia, and Europe. Participants: 11,280 mother-infant pairs. Exposure: Breastfeeding duration (exclusive and any) ascertained at 4, 12, 24 months. Outcome: Obesity (BMI z-score >2) at age 5. Results: Each additional month of any breastfeeding was associated with 4% lower odds of obesity at age 5 (OR 0.96, 95% CI 0.94–0.98). Exclusive breastfeeding ≥6 months halved the odds of obesity (OR 0.51, 95% CI 0.40–0.65). Associations were consistent across world regions. Conclusion: Prolonged breastfeeding has a protective effect against early childhood obesity."
+  },
+  {
+    "id": "study-013",
+    "title": "Prophylactic antibiotics to prevent surgical site infections: a Cochrane review update",
+    "authors": ["Ferreira, G.", "Tanaka, Y.", "Otieno, J."],
+    "year": 2021,
+    "abstract": "Background: Surgical site infections (SSIs) are a major source of postoperative morbidity. This update of a Cochrane review assesses prophylactic antibiotic efficacy across surgical specialties. Methods: Randomised controlled trials comparing prophylactic antibiotics with placebo or no treatment in elective surgery. 186 trials involving 95,143 participants were included. Results: Prophylactic antibiotics reduced SSI risk by 52% across all surgical categories (RR 0.48, 95% CI 0.44–0.52). Benefit was consistent across abdominal, orthopaedic, cardiac, and gynaecological procedures. Timing mattered: administration within 60 minutes before incision was most effective. Conclusion: Single-dose prophylactic antibiotics given preoperatively are effective across all major surgical specialties."
+  },
+  {
+    "id": "study-014",
+    "title": "Exercise training for patients with chronic obstructive pulmonary disease: meta-analysis of RCTs",
+    "authors": ["Petrov, D.", "Acheampong, S.", "Nunes, C."],
+    "year": 2022,
+    "abstract": "Objective: To determine the effects of supervised exercise training on exercise capacity, quality of life, and dyspnoea in COPD patients. Data sources: Cochrane Airways Group Trials Register, PubMed, Embase to December 2021. Study selection: Randomised trials of ≥4 weeks supervised exercise versus usual care. Results: 65 trials (N=3,822) included. Exercise training significantly improved 6-minute walk distance (mean difference +48 m, 95% CI 39–57), COPD assessment test score (−4.2 points), and BODE index. Reductions in hospital admissions were observed (RR 0.74, 95% CI 0.62–0.89). Conclusion: Exercise training is one of the most effective interventions available for COPD patients."
+  },
+  {
+    "id": "study-015",
+    "title": "Antidepressant discontinuation syndrome: prevalence and clinical features from a cohort study",
+    "authors": ["Nielsen, A.", "Mbeki, T.", "Gupta, S."],
+    "year": 2019,
+    "abstract": "Background: Antidepressant discontinuation syndrome (ADS) is under-recognised in clinical practice. We assessed its prevalence, severity, and duration in a real-world cohort. Methods: Prospective cohort of 1,829 adults discontinuing antidepressants (SSRIs, SNRIs, TCAs) in primary care. Symptoms assessed at 1 and 4 weeks post-discontinuation using the Discontinuation Emergent Signs and Symptoms scale. Results: ADS occurred in 46% of participants overall: 32% of SSRI users, 58% of SNRI users, and 71% of venlafaxine discontinuers. Symptoms were rated as severe in 27% of cases. Median duration was 2 weeks; 20% experienced symptoms for >8 weeks. Conclusion: ADS is common, particularly with venlafaxine, and often severe and prolonged."
+  },
+  {
+    "id": "study-016",
+    "title": "Point-of-care ultrasound for diagnosis of deep vein thrombosis in the emergency department",
+    "authors": ["Russo, F.", "Adeola, O.", "Bergman, M."],
+    "year": 2023,
+    "abstract": "Objective: To evaluate the diagnostic accuracy of emergency physician-performed point-of-care ultrasound (POCUS) for lower extremity DVT compared to radiology-performed duplex ultrasound. Design: Prospective diagnostic accuracy study. Setting: Three academic emergency departments. Participants: 412 adults with clinical suspicion of DVT. Index test: POCUS 2-point compression ultrasonography. Reference standard: Full duplex ultrasonography. Results: POCUS had sensitivity 93% (95% CI 87–97) and specificity 96% (95% CI 93–98) for proximal DVT. Mean time to diagnosis was 34 minutes shorter with POCUS (p<0.001). Conclusion: POCUS is highly accurate for proximal DVT and substantially reduces time to diagnosis."
+  },
+  {
+    "id": "study-017",
+    "title": "Parent-delivered early intervention for autism spectrum disorder: a randomised trial",
+    "authors": ["Chu, M.", "Osei-Bonsu, F.", "Lindberg, A."],
+    "year": 2020,
+    "abstract": "Background: Parent-mediated interventions may improve developmental outcomes in children with autism spectrum disorder (ASD). Methods: Randomised controlled trial involving 152 children aged 18–30 months with ASD and their parents. Parents in the intervention group received 12 months of video-feedback-based coaching. Outcome measures: ADOS-2 severity score, adaptive behaviour (Vineland-3), and parental competence at 12 and 24 months. Results: Intervention children showed significantly reduced autism severity at 24 months (mean difference −2.1, p=0.004) and better adaptive behaviour. Parental well-being improved significantly. Conclusion: Parent-mediated early intervention produces lasting improvements in children with ASD and supports parental mental health."
+  },
+  {
+    "id": "study-018",
+    "title": "Glucagon-like peptide-1 receptor agonists for weight management in non-diabetic adults",
+    "authors": ["Martinez, E.", "Oduya, C.", "Carlsson, M."],
+    "year": 2023,
+    "abstract": "Objective: To assess the efficacy and safety of GLP-1 receptor agonists (liraglutide, semaglutide, tirzepatide) for weight reduction in adults without type 2 diabetes. Methods: Meta-analysis of phase 3 randomised controlled trials with ≥52-week duration. Results: GLP-1 RA produced 10–16% mean body weight reduction vs 2–3% with placebo. Semaglutide 2.4 mg demonstrated the largest effect (−14.9%, 95% CI −16.0 to −13.8). GI adverse events (nausea, vomiting) were more frequent with active treatment. No increased cardiovascular events were observed. Conclusion: GLP-1 receptor agonists are effective for weight management with an acceptable safety profile in non-diabetic adults."
+  },
+  {
+    "id": "study-019",
+    "title": "Maternal depression and child cognitive development: a systematic review of longitudinal studies",
+    "authors": ["Achebe, N.", "Park, S.", "Eriksson, L."],
+    "year": 2021,
+    "abstract": "Background: Maternal depression may disrupt early parent-child interactions with downstream effects on child neurodevelopment. We reviewed longitudinal evidence on this association. Methods: Systematic review of prospective cohort studies following children from birth to at least age 5. Results: 38 studies (N>150,000 children) were synthesised. Maternal depression in the first postnatal year was associated with lower cognitive scores at age 3–5 (pooled standardised mean difference −0.23, 95% CI −0.31 to −0.15), independently of socioeconomic confounders. Language development was the most affected domain. Effects were attenuated when depression was successfully treated. Conclusion: Timely treatment of maternal depression may protect child cognitive development."
+  },
+  {
+    "id": "study-020",
+    "title": "Antibiotic stewardship programmes and antimicrobial resistance in hospital settings",
+    "authors": ["Dube, K.", "Varga, T.", "Ishikawa, R."],
+    "year": 2022,
+    "abstract": "Purpose: To evaluate the impact of antibiotic stewardship programmes (ASPs) on antibiotic consumption and resistance rates in acute care hospitals. Methods: Interrupted time series analysis across 47 hospitals implementing ASPs between 2015–2020. Results: ASPs reduced total antibiotic consumption by 22% (incidence rate ratio 0.78, 95% CI 0.71–0.85). Rates of Clostridioides difficile infection fell by 29%. Carbapenem-resistant Enterobacteriaceae rates declined in 72% of participating hospitals. No increase in clinical failure rates was observed. Conclusion: ASPs are effective at reducing antibiotic consumption and resistance without compromising patient outcomes."
+  },
+  {
+    "id": "study-021",
+    "title": "High-intensity interval training versus moderate continuous exercise for cardiometabolic health",
+    "authors": ["Sørensen, L.", "Okeke, B.", "Tan, W."],
+    "year": 2020,
+    "abstract": "Objective: To compare high-intensity interval training (HIIT) and moderate-intensity continuous training (MICT) on cardiometabolic outcomes. Design: Network meta-analysis. Data sources: PubMed, SPORTDiscus, CINAHL. Study selection: Randomised trials ≥8 weeks with healthy adults or those with cardiometabolic risk factors. Results: Both HIIT and MICT significantly improved VO2max, blood pressure, fasting glucose, and lipid profiles. HIIT produced greater VO2max gains (mean difference vs MICT: +1.7 mL/kg/min, 95% CI 0.8–2.6). MICT had superior adherence at 24 weeks (78% vs 65%). Conclusion: HIIT produces larger cardiorespiratory fitness gains; MICT may be preferred for long-term adherence."
+  },
+  {
+    "id": "study-022",
+    "title": "Telerehabilitation after total knee arthroplasty: a non-inferiority randomised trial",
+    "authors": ["Kowalski, A.", "Asare, G.", "Tanaka, M."],
+    "year": 2023,
+    "abstract": "Background: Physiotherapy after total knee arthroplasty (TKA) is standard of care. Telerehabilitation may offer equivalent outcomes with greater convenience. Methods: Non-inferiority RCT, 380 patients randomised to home-based videoconference physiotherapy or centre-based physiotherapy for 8 weeks post-TKA. Primary outcome: Knee injury and Osteoarthritis Outcome Score (KOOS) at 3 months. Results: KOOS improvement was equivalent (mean difference −0.9, 95% CI −4.2 to 2.4; non-inferiority margin 10 points). Patient satisfaction was higher in the telerehabilitation group (83% vs 71%). No difference in adverse events or readmission rates. Conclusion: Telerehabilitation is non-inferior to centre-based physiotherapy after TKA and preferred by patients."
+  },
+  {
+    "id": "study-023",
+    "title": "Palliative care integration in oncology and its effect on quality of life and survival",
+    "authors": ["Obi, A.", "Hernandez, L.", "Christensen, P."],
+    "year": 2019,
+    "abstract": "Background: Early integration of palliative care in oncology may improve patient-centred outcomes. We conducted a meta-analysis of RCTs examining this question. Methods: 21 randomised controlled trials (N=4,663) comparing early integrated palliative care with standard oncology care. Outcomes: quality of life (QOL), symptom burden, mood, survival. Results: Early palliative care significantly improved QOL (standardised mean difference 0.34, 95% CI 0.20–0.48) and reduced depression (SMD −0.22, 95% CI −0.39 to −0.05). Pooled analysis found a survival benefit of 0.84 months (95% CI 0.08–1.60), concentrated in lung cancer trials. Conclusion: Early palliative care integration improves QOL and may modestly extend survival in cancer patients."
+  },
+  {
+    "id": "study-024",
+    "title": "Buprenorphine versus methadone for opioid use disorder: comparative effectiveness review",
+    "authors": ["Agyemang, P.", "Fischer, J.", "Nakagawa, T."],
+    "year": 2022,
+    "abstract": "Objective: To compare buprenorphine and methadone on retention in treatment and overdose risk in adults with opioid use disorder (OUD). Methods: Systematic review of observational studies and clinical trials; meta-analysis where feasible. Results: Both treatments significantly reduced opioid use and overdose risk vs no treatment. Methadone had higher treatment retention at 12 months (OR 1.32, 95% CI 1.15–1.51). Buprenorphine was associated with lower all-cause mortality (HR 0.62, 95% CI 0.48–0.80) possibly reflecting safer dispensing. Conclusion: Both medications are effective; selection should consider patient preference, access barriers, and clinical context. Both are dramatically superior to no treatment."
+  },
+  {
+    "id": "study-025",
+    "title": "Dietary sodium restriction and blood pressure reduction: dose-response meta-analysis",
+    "authors": ["Boateng, S.", "Svensson, O.", "Pham, T."],
+    "year": 2021,
+    "abstract": "Background: Dietary sodium reduction is recommended for blood pressure control, but the optimal target remains debated. Methods: Dose-response meta-analysis of randomised controlled trials assessing sodium restriction. Results: A 100 mmol/day reduction in urinary sodium excretion was associated with a 4.1 mmHg reduction in systolic BP (95% CI 3.5–4.7) and 2.2 mmHg diastolic BP (95% CI 1.8–2.7). The association was linear within the studied range (50–200 mmol/day). Hypertensive participants showed nearly twice the BP reduction of normotensive individuals. Conclusion: Dose-dependent sodium reduction lowers blood pressure; those with hypertension derive the greatest benefit."
+  },
+  {
+    "id": "study-026",
+    "title": "Artificial intelligence for diabetic retinopathy screening: diagnostic accuracy versus ophthalmologists",
+    "authors": ["Kwarteng, F.", "Huang, Y.", "Pedersen, J."],
+    "year": 2023,
+    "abstract": "Objective: To evaluate the diagnostic accuracy of AI-based algorithms for detecting referable diabetic retinopathy (DR) compared to human graders. Methods: Systematic review of prospective validation studies of AI systems applied to retinal fundus photographs. Reference standard: adjudicated panel of ophthalmologists. Results: 18 studies including 9 AI systems were analysed. Pooled sensitivity for referable DR was 95.6% (95% CI 93.2–97.2) and specificity 91.2% (95% CI 88.5–93.4), outperforming individual non-specialist graders. Performance degraded in low image quality settings. Conclusion: AI screening for diabetic retinopathy demonstrates excellent diagnostic accuracy and could extend capacity in underserved settings."
+  },
+  {
+    "id": "study-027",
+    "title": "Vitamin D supplementation and all-cause mortality: updated systematic review and meta-analysis",
+    "authors": ["Mensah, G.", "Strand, A.", "Yamamoto, K."],
+    "year": 2022,
+    "abstract": "Background: Earlier meta-analyses of vitamin D supplementation and mortality produced inconsistent results. We updated the evidence with recently completed large trials. Methods: Systematic review and meta-analysis including trials with ≥1,000 participants and ≥2-year follow-up. Results: 12 trials (N=83,291) contributed. Vitamin D supplementation did not reduce all-cause mortality (HR 0.97, 95% CI 0.92–1.02). Cancer-specific mortality showed a borderline reduction (HR 0.88, 95% CI 0.79–0.99). No significant effects on cardiovascular mortality. Baseline 25-OH vitamin D level did not modify the effect. Conclusion: Vitamin D supplementation does not reduce all-cause or cardiovascular mortality in the general population."
+  },
+  {
+    "id": "study-028",
+    "title": "Transient ischaemic attack clinics and stroke prevention: observational cohort study",
+    "authors": ["Addo, J.", "Kramer, F.", "Kobayashi, H."],
+    "year": 2020,
+    "abstract": "Objective: To evaluate whether attendance at a rapid-access TIA clinic within 24 hours of TIA is associated with reduced subsequent stroke risk. Design: Multicentre prospective cohort study. Setting: 28 stroke centres in 8 countries. Participants: 5,922 patients with suspected TIA. Results: Rapid assessment and secondary prevention initiation within 24 hours was associated with 72% reduction in 90-day stroke risk (HR 0.28, 95% CI 0.19–0.40) compared to delayed assessment. Each additional day of delay increased stroke risk by 8% (HR 1.08, 95% CI 1.04–1.13). Conclusion: Immediate TIA assessment and treatment is highly effective; healthcare systems should prioritise same-day access."
+  },
+  {
+    "id": "study-029",
+    "title": "Polypharmacy in older adults and risk of adverse drug events: a systematic review",
+    "authors": ["Owusu, E.", "Lindgren, B.", "Watanabe, R."],
+    "year": 2021,
+    "abstract": "Background: Polypharmacy (≥5 medications) is prevalent in older adults and may increase adverse drug events (ADEs). We systematically reviewed evidence on this relationship and effective mitigation strategies. Methods: Systematic review of observational studies and RCTs in adults ≥65 years. Results: Polypharmacy was associated with 88% increased odds of ADEs (OR 1.88, 95% CI 1.60–2.20). Hospitalisation risk doubled in patients taking ≥10 medications (OR 2.02). Medication review interventions reduced inappropriate prescribing (OR 0.43, 95% CI 0.34–0.54) but effects on ADEs and hospitalisations were modest. Conclusion: Polypharmacy significantly increases ADE risk; structured medication review is the most evidence-supported intervention."
+  },
+  {
+    "id": "study-030",
+    "title": "Social determinants of health and diabetes control: a cross-sectional analysis",
+    "authors": ["Amponsah, L.", "Torres, R.", "Bergström, H."],
+    "year": 2022,
+    "abstract": "Objective: To quantify the contribution of social determinants of health (SDH) to glycaemic control (HbA1c) in adults with type 2 diabetes beyond clinical factors. Design: Cross-sectional analysis of 14,382 patients in an integrated health system. Exposures: Food insecurity, housing instability, social isolation, neighbourhood deprivation (area deprivation index). Outcome: HbA1c ≥8% (uncontrolled). Results: Food insecurity was the strongest SDH predictor of uncontrolled diabetes (OR 2.31, 95% CI 2.02–2.65). Each unit increase in deprivation index was associated with 12% increased odds of uncontrolled HbA1c. SDH explained 31% of variance in glycaemic control not attributable to clinical variables. Conclusion: Social determinants substantially and independently predict glycaemic control; clinical care alone is insufficient."
+  },
+  {
+    "id": "study-031",
+    "title": "Ketamine for treatment-resistant depression: a systematic review of clinical trials",
+    "authors": ["Frimpong, A.", "Holmberg, C.", "Ito, Y."],
+    "year": 2023,
+    "abstract": "Background: Ketamine and esketamine have emerged as rapid-acting treatments for depression. We reviewed the evidence from clinical trials. Methods: Systematic review of randomised and open-label trials of IV ketamine or intranasal esketamine in adults with major depressive disorder unresponsive to ≥2 antidepressants. Results: 29 studies (N=2,891) included. Response rates ranged from 40–70% at 24 hours, significantly exceeding placebo. Antidepressant effects typically waned within 2 weeks without maintenance treatment. Dissociative adverse effects were common but transient. Esketamine had regulatory approval for rapid antidepressant effects. Conclusion: Ketamine/esketamine produces rapid antidepressant effects but long-term maintenance strategies remain under investigation."
+  },
+  {
+    "id": "study-032",
+    "title": "Long-term outcomes of kidney transplantation versus dialysis in elderly patients",
+    "authors": ["Quartey, P.", "Eriksen, M.", "Suzuki, A."],
+    "year": 2020,
+    "abstract": "Objective: To compare long-term survival and quality of life in adults ≥65 years treated with kidney transplantation or continued dialysis for end-stage renal disease. Design: Propensity-matched cohort study. Setting: National registry data, 12 countries. Participants: 28,439 adults ≥65 years commencing renal replacement therapy 2005–2018. Results: Transplantation was associated with significantly lower all-cause mortality (HR 0.46, 95% CI 0.42–0.51) and superior quality of life (EQ-5D utility difference +0.21). Survival benefit emerged after 18 months (initial perioperative hazard: HR 1.8). Conclusion: Kidney transplantation confers a substantial survival advantage even in elderly recipients; age alone should not preclude transplant evaluation."
+  },
+  {
+    "id": "study-033",
+    "title": "Health impacts of ambient air pollution on childhood respiratory outcomes: a systematic review",
+    "authors": ["Gyamfi, B.", "Lindqvist, P.", "Cho, H."],
+    "year": 2021,
+    "abstract": "Background: Air pollution is a leading environmental risk factor globally. We reviewed evidence on ambient PM2.5 and NO2 exposure and childhood respiratory outcomes. Methods: Systematic review of prospective cohort studies. Children aged 0–18 years. Outcomes: incident asthma, lung function decline, respiratory infections. Results: Each 10 μg/m³ increase in PM2.5 was associated with 14% increased asthma incidence (HR 1.14, 95% CI 1.09–1.19) and 1.1% lower FEV1 growth annually (β −1.1, 95% CI −1.6 to −0.6). NO2 effects were independent of PM2.5. Associations persisted after adjusting for socioeconomic status. Conclusion: Ambient air pollution has measurable adverse effects on lung development and respiratory health in children."
+  },
+  {
+    "id": "study-034",
+    "title": "Immune checkpoint inhibitor toxicity: incidence, management, and outcomes",
+    "authors": ["Asante, A.", "Larsen, T.", "Mori, S."],
+    "year": 2022,
+    "abstract": "Purpose: To characterise the spectrum, incidence, and clinical outcomes of immune-related adverse events (irAEs) from immune checkpoint inhibitor (ICI) therapy. Methods: Retrospective cohort of 3,427 patients receiving ICI monotherapy or combination therapy at 8 oncology centres. Results: Any-grade irAEs occurred in 74% of combination ICI and 41% of monotherapy patients. Severe (grade ≥3) irAEs occurred in 30% and 12%, respectively. The most common severe irAEs were colitis (12%), pneumonitis (7%), and hepatitis (5%). ICI discontinuation was required in 22% of combination patients. irAE occurrence was associated with superior tumour response. Conclusion: irAEs are common with ICI therapy; combined immunotherapy carries substantially higher toxicity."
+  },
+  {
+    "id": "study-035",
+    "title": "Falls prevention interventions in community-dwelling older adults: network meta-analysis",
+    "authors": ["Boateng, K.", "Hedström, M.", "Nakagawa, Y."],
+    "year": 2023,
+    "abstract": "Objective: To rank the effectiveness of different falls prevention interventions in community-dwelling adults aged ≥65 years. Methods: Network meta-analysis of 77 randomised trials (N=22,906). Interventions compared: exercise, home assessment, medication review, vitamin D, multifactorial programmes. Results: Exercise programmes had the highest probability of being most effective (surface under the cumulative ranking: 0.89), reducing falls by 30% (RR 0.70, 95% CI 0.63–0.77). Tai chi specifically was the most effective single exercise type. Vitamin D alone had no significant effect. Multifactorial programmes were effective but less so than exercise alone in community settings. Conclusion: Exercise, particularly Tai chi, should be prioritised in community falls prevention."
+  },
+  {
+    "id": "study-036",
+    "title": "Universal newborn hearing screening and language outcomes: a longitudinal cohort study",
+    "authors": ["Oppong, D.", "Hallberg, U.", "Suzuki, T."],
+    "year": 2019,
+    "abstract": "Background: Early identification of congenital hearing loss is thought to improve language outcomes. This study compared language development in children identified through universal newborn hearing screening versus those identified later. Methods: Population-based longitudinal cohort. 847 children with permanent childhood hearing impairment identified between 1996–2015. Language assessments at ages 3, 5, and 7 years. Results: Children identified by ≤3 months of age and fitted with hearing aids by 6 months had significantly better language scores at age 5 (mean difference +12.3 standardised score, 95% CI 8.4–16.2) than those identified later. Benefits were most pronounced for children with moderate-to-severe hearing loss. Conclusion: Universal newborn screening with early intervention produces lasting language benefits."
+  },
+  {
+    "id": "study-037",
+    "title": "Gut microbiome alterations in major depressive disorder: a systematic review",
+    "authors": ["Asare, Y.", "Carlsson, E.", "Yoshida, N."],
+    "year": 2022,
+    "abstract": "Background: The gut-brain axis has emerged as a potential mediator of mood disorders. We systematically reviewed evidence on gut microbiome composition differences in major depressive disorder (MDD). Methods: Systematic review of case-control studies comparing gut microbiome composition between adults with MDD and healthy controls. 24 studies meeting inclusion criteria. Results: MDD was consistently associated with reduced microbial diversity, decreased Lactobacillus and Bifidobacterium, and increased Proteobacteria relative abundance. Microbiome differences correlated with depression severity in 14 of 18 reporting studies. However, study heterogeneity was high and causality unestablished. Conclusion: Consistent gut microbiome alterations occur in MDD; causality and therapeutic implications require further investigation."
+  },
+  {
+    "id": "study-038",
+    "title": "Pre-exposure prophylaxis (PrEP) for HIV prevention: real-world effectiveness study",
+    "authors": ["Mensah, J.", "Lindberg, C.", "Kimura, T."],
+    "year": 2021,
+    "abstract": "Objective: To evaluate real-world effectiveness of daily oral tenofovir-emtricitabine PrEP for HIV prevention in a diverse cohort. Design: Prospective observational cohort. Setting: 9 PrEP clinics in 4 countries. Participants: 6,214 individuals at elevated HIV risk. Follow-up: median 28 months. Results: HIV incidence was 0.11 per 100 person-years among PrEP users versus 1.84 in a contemporaneous comparison cohort (rate ratio 0.06, 95% CI 0.02–0.17). Adherence ≥90% was associated with near-complete protection. Adherence was the primary determinant of real-world effectiveness. STI incidence increased, underscoring the need for regular screening. Conclusion: PrEP is highly effective in real-world settings; adherence support and STI monitoring are essential."
+  },
+  {
+    "id": "study-039",
+    "title": "Electronic patient records and diagnostic error reduction: a mixed-methods study",
+    "authors": ["Antwi, B.", "Mortensen, R.", "Tanaka, S."],
+    "year": 2020,
+    "abstract": "Background: Electronic health records (EHRs) with clinical decision support may reduce diagnostic errors. This mixed-methods study examined implementation experiences and error rates. Methods: Pre-post study with qualitative interviews across 6 hospitals implementing EHR-integrated diagnostic decision support. Diagnostic error rates assessed via case review (n=4,200 cases). Results: EHR-CDS implementation was associated with 18% reduction in diagnostic errors (OR 0.82, 95% CI 0.70–0.95). Alert fatigue was the primary barrier; physicians overrode 63% of alerts. Qualitative analysis identified workflow integration and alert precision as critical success factors. Conclusion: EHR-based decision support reduces diagnostic errors when implemented with attention to alert design and clinician workflow."
+  },
+  {
+    "id": "study-040",
+    "title": "Shared decision-making in cancer treatment and patient-reported outcomes",
+    "authors": ["Darko, P.", "Salminen, H.", "Ito, K."],
+    "year": 2023,
+    "abstract": "Objective: To examine whether shared decision-making (SDM) in cancer treatment planning improves patient-reported outcomes (PROs). Design: Systematic review and meta-analysis. Methods: Randomised trials comparing SDM interventions versus usual care in cancer patients making major treatment decisions. 33 trials (N=7,218) included. Results: SDM interventions significantly improved decisional satisfaction (SMD 0.41, 95% CI 0.28–0.54) and reduced decisional conflict (SMD −0.38, 95% CI −0.51 to −0.24). Treatment-related anxiety decreased modestly (SMD −0.18, 95% CI −0.33 to −0.02). No consistent effects on clinical outcomes or health-related QOL. Conclusion: SDM consistently improves decision quality and reduces conflict in cancer care with manageable implementation burden."
+  },
+  {
+    "id": "study-041",
+    "title": "Omega-3 fatty acids and cardiovascular outcomes: a revisited meta-analysis of recent trials",
+    "authors": ["Ayisi, K.", "Eriksson, G.", "Okamoto, H."],
+    "year": 2021,
+    "abstract": "Background: Early omega-3 cardiovascular trials showed benefits, but subsequent trials were neutral. We re-analysed with disaggregated data from recent large trials. Methods: Meta-analysis of randomised trials of omega-3 supplementation (EPA, DHA, EPA+DHA) and cardiovascular outcomes. 28 trials (N=112,059) included. Results: High-dose EPA monotherapy (icosapentaenoic acid, ≥4g/day) significantly reduced major cardiovascular events (RR 0.80, 95% CI 0.73–0.88). Combination EPA+DHA at lower doses was not effective (RR 0.98, 95% CI 0.93–1.03). Triglyceride reduction was dose-dependent for all formulations. Conclusion: High-dose EPA monotherapy reduces cardiovascular events; lower-dose combination omega-3 supplements do not."
+  },
+  {
+    "id": "study-042",
+    "title": "Peer support for type 2 diabetes self-management: a cluster randomised trial",
+    "authors": ["Asante, E.", "Björk, L.", "Nakamura, H."],
+    "year": 2020,
+    "abstract": "Objective: To evaluate the effectiveness of trained peer support added to standard diabetes care on glycaemic control and self-management behaviours. Design: Cluster randomised trial. Setting: 32 primary care clinics. Participants: 2,104 adults with type 2 diabetes and HbA1c ≥7.5%. Intervention: Monthly peer support group meetings plus telephone check-ins vs usual care alone. Results: Peer support significantly reduced HbA1c (mean difference −0.62%, 95% CI −0.88 to −0.35) and improved self-management scores. Effects were larger in those with baseline HbA1c ≥9%. Healthcare utilisation was unchanged. Conclusion: Peer support is a scalable, effective add-on intervention for glycaemic control in primary care."
+  },
+  {
+    "id": "study-043",
+    "title": "Robotic-assisted surgery versus laparoscopy for colorectal cancer resection: meta-analysis",
+    "authors": ["Bonsu, F.", "Lund, K.", "Fujioka, M."],
+    "year": 2022,
+    "abstract": "Objective: To compare perioperative and oncological outcomes of robotic versus laparoscopic colorectal cancer resection. Methods: Systematic review and meta-analysis of randomised trials and propensity-matched cohort studies. Results: 21 studies (N=14,283) analysed. Robotic surgery was associated with lower conversion to open surgery (OR 0.53, 95% CI 0.42–0.67) and shorter hospital stay (mean difference −0.6 days, 95% CI −1.0 to −0.2). Operative time was longer in the robotic group (+31 min, 95% CI 18–44). 3-year overall survival and disease-free survival were equivalent. Costs were significantly higher for robotic procedures. Conclusion: Robotic colorectal surgery offers modest perioperative advantages over laparoscopy with equivalent oncological outcomes and higher costs."
+  },
+  {
+    "id": "study-044",
+    "title": "Family-based treatment for adolescent anorexia nervosa: a Cochrane review",
+    "authors": ["Acquah, S.", "Magnusson, P.", "Yoshimoto, K."],
+    "year": 2021,
+    "abstract": "Background: Anorexia nervosa (AN) in adolescents has the highest mortality of any psychiatric disorder. Family-based treatment (FBT) is the leading evidence-based approach. This Cochrane review updates the evidence base. Methods: Randomised trials comparing FBT to individual adolescent therapy, CBT, or treatment as usual in adolescents ≤19 years with AN. Results: 9 trials (N=667) met inclusion criteria. FBT produced greater weight recovery at end of treatment (mean difference in BMI z-score: +0.52, 95% CI 0.24–0.80) and at 12-month follow-up (+0.41). Remission rates were higher with FBT (OR 2.1, 95% CI 1.3–3.4). Full weight recovery did not universally occur. Conclusion: FBT is the most effective treatment for adolescent AN; however, substantial room for improvement remains."
+  },
+  {
+    "id": "study-045",
+    "title": "Machine learning for prediction of 30-day hospital readmission: a systematic review",
+    "authors": ["Asante-Poku, J.", "Henriksen, F.", "Kato, M."],
+    "year": 2023,
+    "abstract": "Background: Hospital readmissions are costly and often preventable. Machine learning (ML) models may improve risk stratification over traditional tools. Methods: Systematic review of studies validating ML readmission prediction models. 48 studies from 2010–2022 included. Results: ML models (gradient boosting, neural networks, random forests) outperformed logistic regression and LACE index in 38 of 48 studies. Pooled AUC for ML models was 0.77 (95% CI 0.74–0.80) versus 0.67 for traditional methods. Feature importance analyses consistently highlighted prior hospitalisations, diagnosis complexity, and social vulnerability. External validation was performed in only 22% of studies. Conclusion: ML models show promising readmission prediction accuracy but require rigorous external validation before clinical deployment."
+  },
+  {
+    "id": "study-046",
+    "title": "Immediate versus delayed cord clamping in term neonates: effects on iron status and neurodevelopment",
+    "authors": ["Gyimah, A.", "Lindblom, E.", "Nishimura, T."],
+    "year": 2020,
+    "abstract": "Objective: To compare iron stores at 6 months and neurodevelopmental outcomes at 24 months in term infants randomised to immediate (<10 s) or delayed (≥60 s) umbilical cord clamping. Design: Randomised controlled trial. Setting: 4 birth centres in Uganda and Sweden. Participants: 1,220 term, singleton infants. Results: Delayed cord clamping significantly improved ferritin at 6 months (mean difference +13.2 μg/L, 95% CI 7.4–19.0). Iron deficiency rates were halved (4.8% vs 9.3%, RR 0.52). Cognitive, language, and motor scores at 24 months were non-significantly higher in delayed clamping group. No difference in neonatal polycythaemia or jaundice requiring treatment. Conclusion: Delayed cord clamping improves infant iron stores with no clinically significant harms."
+  },
+  {
+    "id": "study-047",
+    "title": "Psychosocial interventions for cancer-related fatigue: a meta-analysis",
+    "authors": ["Boamah, D.", "Sköld, A.", "Ueda, T."],
+    "year": 2022,
+    "abstract": "Background: Cancer-related fatigue (CRF) is the most common and debilitating symptom in cancer patients. We evaluated the efficacy of psychosocial interventions for CRF. Methods: Meta-analysis of RCTs testing CBT, mindfulness-based, or problem-solving interventions vs control in cancer patients with CRF. Results: 31 trials (N=4,108) included. Psychosocial interventions significantly reduced CRF at end of intervention (SMD −0.43, 95% CI −0.55 to −0.31). Benefits were maintained at 3 and 6 months (SMD −0.28 and −0.21, respectively). CBT showed the largest and most sustained effects. Conclusion: Psychosocial interventions, particularly CBT, effectively reduce cancer-related fatigue with moderate and durable effect sizes."
+  },
+  {
+    "id": "study-048",
+    "title": "Continuous glucose monitoring versus self-monitored blood glucose in type 1 diabetes: RCT",
+    "authors": ["Acheampong, F.", "Norström, H.", "Nakamura, R."],
+    "year": 2023,
+    "abstract": "Objective: To evaluate whether continuous glucose monitoring (CGM) improves glycaemic control compared to standard self-monitored blood glucose (SMBG) in adults with type 1 diabetes. Design: Randomised crossover trial, 12-week periods. Participants: 312 adults with T1D and HbA1c ≥7.5%. Results: CGM significantly reduced time-above-range (>13.9 mmol/L) by 4.1 percentage points (p<0.001) and increased time-in-range (3.9–10.0 mmol/L) by 11.2 percentage points. HbA1c reduction was greater with CGM (−0.44%, p=0.002). CGM substantially reduced hypoglycaemia events (RR 0.58). User satisfaction was significantly higher with CGM. Conclusion: CGM significantly outperforms SMBG in time-in-range and hypoglycaemia reduction in adults with type 1 diabetes."
+  },
+  {
+    "id": "study-049",
+    "title": "Social prescribing for loneliness in older adults: a pilot randomised controlled trial",
+    "authors": ["Owusu-Agyei, D.", "Lindholm, K.", "Kawamoto, S."],
+    "year": 2021,
+    "abstract": "Background: Loneliness is associated with adverse health outcomes in older adults. Social prescribing links patients to community activities and volunteer support. This pilot RCT tested feasibility and preliminary effectiveness. Methods: 148 community-dwelling adults ≥65 years, scoring ≥5 on the UCLA Loneliness Scale, randomised to social prescribing link worker service or usual GP care. Outcomes at 3 and 6 months: loneliness, depression, wellbeing, healthcare utilisation. Results: Recruitment and retention were feasible (87% follow-up). Loneliness scores improved significantly in the intervention group at 6 months (UCLA −2.8, 95% CI −4.9 to −0.7). GP contacts decreased by 24% in the intervention arm. Conclusion: Social prescribing shows promising effects on loneliness and healthcare utilisation; a definitive trial is warranted."
+  },
+  {
+    "id": "study-050",
+    "title": "CRISPR-Cas9 gene editing for sickle cell disease: phase 1/2 clinical trial results",
+    "authors": ["Amoah, F.", "Lindgren, T.", "Okamura, H."],
+    "year": 2023,
+    "abstract": "Background: Sickle cell disease (SCD) is caused by a single-point mutation in the beta-globin gene. CRISPR-Cas9 approaches targeting BCL11A to upregulate fetal haemoglobin offer a curative strategy. Methods: Phase 1/2 open-label trial in 35 patients with severe SCD. Autologous CD34+ haematopoietic stem cells were edited ex vivo and reinfused after myeloablative conditioning. Results: All evaluable patients achieved substantial elevations in foetal haemoglobin (mean HbF 43.2%). Vaso-occlusive crisis rates fell from median 4.8/year to 0 post-therapy. No off-target editing events were detected in 24-month follow-up. Grade ≥3 adverse events were primarily related to conditioning regimen. Conclusion: BCL11A-targeting CRISPR gene editing is a promising potentially curative therapy for SCD."
+  }
+]

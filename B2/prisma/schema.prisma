@@ -1,0 +1,29 @@
+// Sabi Core — B2 Prisma schema
+// Database: PostgreSQL
+// See README.md for setup and migration instructions.
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Study {
+  id            String   @id @default(cuid())
+  title         String
+  doi           String?  @unique
+  abstract      String?
+  year          Int?
+  authors       String[]
+  source        String   // "openalex" | "pubmed"
+  openAccessUrl String?
+  embedding     Float[]  // OpenAI text-embedding-3-small (1536 dims)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([source])
+  @@index([year])
+}
