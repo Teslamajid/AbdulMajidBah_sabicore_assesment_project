@@ -2,6 +2,82 @@
 
 ## AI Context File — SDLC Execution Blueprint
 
+---
+
+# PROJECT PROGRESS SUMMARY
+
+## What Has Been Achieved
+
+### F1 — Frontend (Study Screener) ✅ Complete
+- Scaffolded with Vite + React (JavaScript/JSX)
+- `StudyList`, `StudyCard`, `DecisionControls`, `ProgressBar` components built
+- 50 mock study records in `/F1/src/data/studies.json`
+- Decision state management with localStorage persistence (`sabi_decisions` key)
+- Keyboard navigation: I / E / U / ArrowLeft / ArrowRight
+- Progress indicator (Study X of 50 — Y decided)
+- Module-level `README.md` and functional CSS styling
+
+### B2 — Backend (Research Data Ingestion API) ✅ Complete
+- Express.js app (`src/app.js`) with Vercel-serverless-compatible default export
+- Local dev entry point (`server.js`) with `app.listen()`
+- Prisma `Study` model defined in `prisma/schema.prisma` with all required fields (`id`, `title`, `doi`, `abstract`, `year`, `authors`, `source`, `openAccessUrl`, `embedding`, `createdAt`, indexed on `source` and `year`)
+- All three REST routes implemented:
+  - `GET /api/search?query=&source=openalex|pubmed&limit=500`
+  - `POST /api/studies` and `GET /api/studies`
+  - `POST /api/screen`
+- OpenAlex client with cursor-based pagination, 1s page delay, 10s timeout, exponential backoff (max 3 retries)
+- PubMed client with `esearch` → `efetch` flow, same timeout + retry pattern
+- Shared `normalizer.js` producing unified `{ title, doi, abstract, year, authors, source, openAccessUrl }` shape
+- Shared utilities: `retry.js` (exponential backoff), `logger.js` (structured JSON), `prismaClient.js` (singleton), `openaiClient.js`
+- `vercel.json` serverless config, `.env.example`, and module-level `README.md`
+
+### A1 — AI Integration ✅ Complete (standalone module + mirrored in B2)
+- `screener.js`: OpenAI chat completion (`gpt-4o-mini`, temperature 0) with strict criteria-only system prompt, returning `{ decision, reason }`
+- `embedder.js`: OpenAI `text-embedding-3-small` producing 1536-dimension `Float[]` vector
+- Structured JSON logging on every AI call (prompt, model, decision, timestamp)
+- Output contract fully implemented: `{ decision, reason, embedding, metadata }` with `promptVersion`, `model`, `embeddingModel`, `timestamp`
+- A1 logic duplicated within `B2/src/services/` as designed; standalone `A1/` module also present for isolated testing
+- `.env.example` and module-level `README.md`
+
+---
+
+## Remaining Work to Fully Accomplish the Task
+
+### 1. Database Setup (Blocker for B2 + A1 live testing)
+- Run `npx prisma migrate dev --name init` inside `/B2` against a live PostgreSQL instance
+- Confirm `DATABASE_URL` is set in `/B2/.env` before migrating
+- Verify the `postinstall` script in `B2/package.json` runs `prisma generate` (required for Vercel build)
+
+### 2. Root-Level Vercel Config for F1 (Missing)
+- Add a root `vercel.json` (or configure the Vercel project dashboard) to deploy F1 as a static Vite site
+- Set build command: `npm run build`, output directory: `dist`
+- The current `vercel.json` in `/B2` only covers the backend serverless deployment
+
+### 3. End-to-End Testing (Phase 4 — Not Started)
+- **F1:** Verify localStorage persistence survives page reload; confirm all keyboard shortcuts work; confirm all 50 studies are navigable
+- **B2:** Smoke-test all three endpoints (`/api/search`, `/api/studies`, `/api/screen`) with `curl` or Postman
+- **B2:** Test OpenAlex + PubMed pagination, timeout handling, and retry logic
+- **A1:** Validate embedding dimensionality (1536), confirm decision output matches contract, verify logs emit on every call
+
+### 4. Consolidation of A1 Module
+- Decide whether the standalone `A1/` directory is a deliverable or only the embedded `B2/src/services/screener.js` + `embedder.js`
+- If standalone A1 is a separate deliverable, ensure it is documented and its README is current
+- If not, clean up the `A1/` directory to avoid confusion with the design spec (which placed AI logic inside B2)
+
+### 5. Deployment to Vercel (Phase 6 — Not Started)
+- Set `DATABASE_URL` and `OPENAI_API_KEY` in the Vercel project dashboard environment variables
+- Deploy B2 via Vercel CLI (`vercel --prod` from `/B2`)
+- Deploy F1 via Vercel CLI (`vercel --prod` from `/F1`) or configure as a separate Vercel project
+- Confirm Prisma client is generated at Vercel build time (`postinstall` in `package.json`)
+
+### 6. Pre-Delivery Checklist
+- No hardcoded secrets in any source file
+- `.env` files are in `.gitignore`
+- All `.env.example` files are complete and accurate
+- All module `README.md` files reflect final implemented state
+
+---
+
 **Author:** Senior Software Engineer (20+ Years Experience)
 **Scope:** F1 (Frontend), B2 (Backend), A1 (AI Integration)
 **Objective:** Provide a complete execution roadmap enabling consistent, high-quality implementation aligned with Sabi Core architecture and expectations.
